@@ -4,7 +4,7 @@
 
 ## 下载
 
-> 目前只有 **Windows 版**。Mac 版正在开发中，发布后会出现在这里（文件名以 `.dmg` 结尾）。.exe` 安装包在 Mac 上打不开。
+> 目前只有 **Windows 版**。Mac 版正在开发中，发布后会出现在这里（文件名以 `.dmg` 结尾）。`.exe` 安装包在 Mac 上打不开。
 
 到 [Releases](../../releases/latest) 下载最新的 `InterviewCopilot_x.y.z_x64-setup.exe`，双击安装即可（不需要管理员权限）。
 
