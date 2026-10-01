@@ -4,6 +4,8 @@
 
 ## 下载
 
+> 目前只有 **Windows 版**。Mac 版正在开发中，发布后会出现在这里（文件名以 `.dmg` 结尾）。.exe` 安装包在 Mac 上打不开。
+
 到 [Releases](../../releases/latest) 下载最新的 `InterviewCopilot_x.y.z_x64-setup.exe`，双击安装即可（不需要管理员权限）。
 
 装好之后，有新版本时打开面试助手会自动提示更新。
@@ -15,4 +17,5 @@
 ## 系统要求
 
 - Windows 10 / 11（64 位）
+- macOS：开发中
 - 需要联网使用
